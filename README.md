@@ -54,7 +54,7 @@ A Python-based tool to track phone number details and geolocation information. T
 
 ### Configure Your API Key
 
-Obtain an API key from [OpenCage Geocoder](https://opencagedata.com/api) and create a file named `API.py` in the project directory with the following content:
+Obtain an API key from [OpenCage Geocoder](https://opencagedata.com/api) and open file named `API.py` in the project directory with the following content:
 
 ```python
 # API.py
@@ -73,3 +73,18 @@ python main.py
 - Display the phone number's location and carrier information.
 - Retrieve and display detailed geographic information.
 - Open the corresponding location in your default web browser via Google Maps (or Apple Maps).
+
+## Examples
+
+[Include screenshots, GIFs, or code snippets here to demonstrate the project in action. For example:]  
+![Face Recognition Demo](path/to/demo.gif)
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+## Contact
+
+For questions, suggestions, or issues, please reach out:  
+- GitHub: [jaikanthh](https://github.com/jaikanthh)  
+- Email: [Jaikanth](mailto:jaikanthkamisetti@gmail.com)
