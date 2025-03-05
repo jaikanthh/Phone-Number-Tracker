@@ -76,8 +76,10 @@ python main.py
 
 ## Examples
 
-[Include screenshots, GIFs, or code snippets here to demonstrate the project in action. For example:]  
-![Face Recognition Demo](path/to/demo.gif)
+![Alt text](.github/2.jpg)
+![Alt text](.github/1.jpg)
+
+
 
 ## License
 
